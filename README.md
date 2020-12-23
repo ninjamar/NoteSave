@@ -6,9 +6,9 @@ Run "pip instal notesave" in the terminal
 Commands
 "notesave l" lists files  
 "notesave r" reads files  
-"notesave c" creates files
+"notesave c" creates files  
 #Python
-import notesave
-n = NoteSave()
-n.main()
-or n.cli()
+import notesave  
+n = NoteSave()  
+n.main()  
+or n.cli()  
