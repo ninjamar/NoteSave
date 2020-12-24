@@ -1,8 +1,8 @@
 from distutils.core import setup
 setup(
   name = 'notesave',
-  author_email = 'samitn@gmail.com',
-  version = '1.0.4',
+  author_email = 'example@example.com',
+  version = '1.0.5',
   classifiers = [
       "Programming Language :: Python :: 3",
   ],
