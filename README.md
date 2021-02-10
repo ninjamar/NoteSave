@@ -1,5 +1,5 @@
 ```bash
-Run "pip install notesave" in the terminal
+pip install notesave
 ```
 #Terminal
 Commands
