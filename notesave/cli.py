@@ -1,4 +1,4 @@
-from .main import NoteSaver
+from . import NoteSaver
 
 def main():
   n = NoteSaver()
