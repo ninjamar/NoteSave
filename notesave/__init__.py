@@ -17,7 +17,7 @@ class NoteSaver:
   
   def save_note_online(self,title,content):
     url = 'https://pastebin.com/api/api_post.php'
-    dev_key = 'lc8iDOY9Q7lQXg4Ed_VMWvIob1A8pu50'
+    dev_key = ''if you want to save notes on pastebin put your key here
     data = {
       'api_dev_key':dev_key,
       'api_option':'paste',
